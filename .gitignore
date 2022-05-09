@@ -1,0 +1,7 @@
+.vs/
+ApiResponseHandlerWithMediatr/bin/
+ApiResponseHandlerWithMediatr/obj/
+ApiResponseWithExceptionHandlers/bin/
+ApiResponseWithExceptionHandlers/obj/
+BenchmarkDotNetCompare/bin/
+BenchmarkDotNetCompare/obj/
